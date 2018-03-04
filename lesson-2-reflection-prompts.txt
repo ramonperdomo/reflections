@@ -11,10 +11,10 @@ What value do you think it offers?
 	it can make your commits more ordered and you can see what will be the changes before commit
 
 How can you use the staging area to make sure you have one commit per logical change?
-
+	first, i do a modification. next, i use git diff and git diff --stage to see what i did. this way, i can see if i did zero or more logical changes
 
 What are some situations when branches would be helpful in keeping your history organized?
-
+	when i(we) try multiple features in the same time
 
 How would branches help?
 
