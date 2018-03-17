@@ -22,11 +22,8 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 	the subjects are more ordered if you see them as branch and not as commits
 
-What is the result of merging two branches together?
-
-
-Why do we represent it in the diagram the way we do?
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the result is all the changes to the initial point that the branches do. the diagram is handy to see how the bifurcations are related.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
