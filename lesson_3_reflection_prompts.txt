@@ -14,4 +14,4 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	we can share a link to a cloud but there don't will be a version control. the git method is the easier one
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
-
+	always. it's safe to create a new branch and test the new code, and when it's okay, merge with master. in collaborative environment it be very useful since you will not disturb the work to the other with your bugs or works that aren't working yet.
